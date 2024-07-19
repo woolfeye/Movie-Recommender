@@ -9,3 +9,11 @@ Dataset link - https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
 
 Download these two files for Dataset before extracting pickle file from ipynb file.
 
+
+Requirements:-
+1.Jupyter Notebook
+2.Pycharm
+3.Pandas
+4.Streamlit
+5.Scikit learn
+
